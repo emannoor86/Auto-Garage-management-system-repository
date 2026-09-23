@@ -1,1 +1,1 @@
-This repository is for the working of auo garage management system .
+This repository is for the working of auto garage management system .
